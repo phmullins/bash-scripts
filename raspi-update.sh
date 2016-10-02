@@ -10,7 +10,7 @@ sudo apt update
 sudo apt upgrade -y
 
 # Install the rpi-update utility.
-sudo apt install rpi-update
+sudo apt install -y rpi-update
 
 # Check for updated firmware and install if found.
 sudo rpi-update
