@@ -2,7 +2,7 @@
 # Raspberry Pi Bootstrap Script
 # Author: Patrick H. Mullins (pmullins11@mac.com)
 # Updated: September 27, 2016 at 1:44:28 PM EDT
-
+#
 # Check for updates.
 sudo apt update
 
