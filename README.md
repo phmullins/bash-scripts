@@ -18,6 +18,7 @@ Miscellaneous Bash scripts that I've created and/or found useful over the years
 - [raspi_dupeip.sh](https://github.com/phmullins/bash-scripts/blob/master/scripts/raspi-dupeip.sh) - Fixes the duplicate IP issue seen on the Raspberry Pi. 
 - [raspi_update.sh](https://github.com/phmullins/bash-scripts/blob/master/scripts/raspi-update.sh) - Raspbery Pi: Checks for updates, upgrades the OS, and installs the latest firmware.
 - [sparse.sh](https://github.com/phmullins/bash-scripts/blob/master/scripts/sparse.sh) - Mounts a sparsebundle disk into the supplied path.
+- [yad.sh](https://github.com/phmullins/bash-scripts/blob/master/scripts/yad.sh) - Convert a YouTube video into an AAC encoded .m4a audio file.
 
 ## Installation
 
